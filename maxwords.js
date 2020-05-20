@@ -3,4 +3,4 @@
                 return false;
             }
             return true;
-        }, "Please enter at maximum {0} words.");
+        }, "Please enter maximum {0} words.");
